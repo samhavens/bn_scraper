@@ -1,0 +1,4747 @@
+<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-hpe-2-5-4-x-4-diesel-aut-preta-40884006" title="    Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011">
+											
+												<img class="image" src="http://img.bomnegocio.com/thumbsli/78/7858271848.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_40884006" name="40884006" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-hpe-2-5-4-x-4-diesel-aut-preta-40884006" title="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011">Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 120.000 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											
+											
+											
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 76.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">Hoje</p>
+								<p class="text mb5px">16:01</p>
+							</div>
+
+							<a class="whole_area_link" name="40884006" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-hpe-2-5-4-x-4-diesel-aut-preta-40884006" title="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011">Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image">
+							<div class="box">
+								<span class="IEalignment"></span>
+									<span class="no_photo">sem foto</span>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_58171448" name="58171448" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-c-garantia-u-dona-e-18-000km-58171448" title="Pajero TR4 c/ Garantia, U.dona e 18.000KM - 2013">Pajero TR4 c/ Garantia, U.dona e 18.000KM - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 18.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Vila Alexandria
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 65.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">Hoje</p>
+								<p class="text mb5px">15:37</p>
+							</div>
+
+							<a class="whole_area_link" name="58171448" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-c-garantia-u-dona-e-18-000km-58171448" title="Pajero TR4 c/ Garantia, U.dona e 18.000KM - 2013">Pajero TR4 c/ Garantia, U.dona e 18.000KM - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/baixada-santista-e-litoral-sul/veiculos/carros/mitsubishi-pajero-52566395" title="    Mitsubishi Pajero - 2012">
+											
+												<img class="image" src="http://img.bomnegocio.com/thumbsli/99/997425103408798.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_52566395" name="52566395" href="http://sp.bomnegocio.com/baixada-santista-e-litoral-sul/veiculos/carros/mitsubishi-pajero-52566395" title="Mitsubishi Pajero - 2012">Mitsubishi Pajero - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 22.200 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Vicente, 
+											Centro
+											 - 
+											DDD 13
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 55.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">Hoje</p>
+								<p class="text mb5px">11:06</p>
+							</div>
+
+							<a class="whole_area_link" name="52566395" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/baixada-santista-e-litoral-sul/veiculos/carros/mitsubishi-pajero-52566395" title="Mitsubishi Pajero - 2012">Mitsubishi Pajero - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image">
+							<div class="box">
+								<span class="IEalignment"></span>
+									<span class="no_photo">sem foto</span>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_58118270" name="58118270" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-full-3-2-hpe-4x4-2014-diesel-58118270" title="Mitsubishi Pajero full 3.2 hpe 4x4 2014 diesel - 2014">Mitsubishi Pajero full 3.2 hpe 4x4 2014 diesel - 2014</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 5.800 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Sumar
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 189.999</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">Hoje</p>
+								<p class="text mb5px">09:58</p>
+							</div>
+
+							<a class="whole_area_link" name="58118270" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-full-3-2-hpe-4x4-2014-diesel-58118270" title="Mitsubishi Pajero full 3.2 hpe 4x4 2014 diesel - 2014">Mitsubishi Pajero full 3.2 hpe 4x4 2014 diesel - 2014</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/pajero-dakar-hpe-2012-58117889" title="    Pajero Dakar HPE 2012 - 2012">
+											
+												<img class="image" src="http://img.bomnegocio.com/thumbsli/61/616526001207927.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_58117889" name="58117889" href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/pajero-dakar-hpe-2012-58117889" title="Pajero Dakar HPE 2012 - 2012">Pajero Dakar HPE 2012 - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 52.000 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Campinas, 
+											Cidade Jardim
+											 - 
+											DDD 19
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 105.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">Hoje</p>
+								<p class="text mb5px">09:57</p>
+							</div>
+
+							<a class="whole_area_link" name="58117889" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/pajero-dakar-hpe-2012-58117889" title="Pajero Dakar HPE 2012 - 2012">Pajero Dakar HPE 2012 - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-tr4-2013-4x2-manual-52096277" title="    Mitsubishi Pajero TR4 2013 4x2 Manual - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/94/943420103649075.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_52096277" name="52096277" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-tr4-2013-4x2-manual-52096277" title="Mitsubishi Pajero TR4 2013 4x2 Manual - 2013">Mitsubishi Pajero TR4 2013 4x2 Manual - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 32.800 km
+	 | Cmbio: manual
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Lorena, 
+											Cruz
+											 - 
+											DDD 12
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 56.500</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">Ontem</p>
+								<p class="text mb5px">15:56</p>
+							</div>
+
+							<a class="whole_area_link" name="52096277" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-tr4-2013-4x2-manual-52096277" title="Mitsubishi Pajero TR4 2013 4x2 Manual - 2013">Mitsubishi Pajero TR4 2013 4x2 Manual - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-full-3-8-v6-2011-top-58058294" title="    Mitsubishi Pajero FULL 3.8 V6 2011 TOP - 2011">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/60/604525008450991.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_58058294" name="58058294" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-full-3-8-v6-2011-top-58058294" title="Mitsubishi Pajero FULL 3.8 V6 2011 TOP - 2011">Mitsubishi Pajero FULL 3.8 V6 2011 TOP - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 38.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Tatuap
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 95.800</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">Ontem</p>
+								<p class="text mb5px">14:50</p>
+							</div>
+
+							<a class="whole_area_link" name="58058294" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-full-3-8-v6-2011-top-58058294" title="Mitsubishi Pajero FULL 3.8 V6 2011 TOP - 2011">Mitsubishi Pajero FULL 3.8 V6 2011 TOP - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-2012-blindada-57985800" title="    Mitsubishi Pajero TR4 2012 blindada - 2012">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/59/592524001313969.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57985800" name="57985800" href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-2012-blindada-57985800" title="Mitsubishi Pajero TR4 2012 blindada - 2012">Mitsubishi Pajero TR4 2012 blindada - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 110.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Campinas, 
+											So Bernardo
+											 - 
+											DDD 19
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 56.500</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">24 Jan</p>
+								<p class="text mb5px">15:14</p>
+							</div>
+
+							<a class="whole_area_link" name="57985800" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-2012-blindada-57985800" title="Mitsubishi Pajero TR4 2012 blindada - 2012">Mitsubishi Pajero TR4 2012 blindada - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-2-0-4-portas-4x4-flex-52316077" title="    Mitsubishi Pajero TR4 2.0 4 Portas 4x4 Flex - 2011">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/97/979423106609061.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_52316077" name="52316077" href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-2-0-4-portas-4x4-flex-52316077" title="Mitsubishi Pajero TR4 2.0 4 Portas 4x4 Flex - 2011">Mitsubishi Pajero TR4 2.0 4 Portas 4x4 Flex - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 74.000 km
+	 | Cmbio: manual
+	 | Gasolina
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											
+											
+											
+											DDD 19
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 48.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">24 Jan</p>
+								<p class="text mb5px">14:44</p>
+							</div>
+
+							<a class="whole_area_link" name="52316077" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-2-0-4-portas-4x4-flex-52316077" title="Mitsubishi Pajero TR4 2.0 4 Portas 4x4 Flex - 2011">Mitsubishi Pajero TR4 2.0 4 Portas 4x4 Flex - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-4x2-2012-automatica-flex-57917155" title="    Mitsubishi Pajero TR4 4X2 2012 Autom">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/58/589523003741798.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57917155" name="57917155" href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-4x2-2012-automatica-flex-57917155" title="Mitsubishi Pajero TR4 4X2 2012 Autom">Mitsubishi Pajero TR4 4X2 2012 Automtica flex - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 44.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Indaiatuba
+											
+											 - 
+											DDD 19
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 54.900</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">23 Jan</p>
+								<p class="text mb5px">19:42</p>
+							</div>
+
+							<a class="whole_area_link" name="57917155" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-4x2-2012-automatica-flex-57917155" title="Mitsubishi Pajero TR4 4X2 2012 Autom">Mitsubishi Pajero TR4 4X2 2012 Automtica flex - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/regiao-de-presidente-prudente/veiculos/carros/mitsubishi-pajero-tr4-linda-57881475" title="    Mitsubishi Pajero TR4 linda - 2012">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/58/580523002816914.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57881475" name="57881475" href="http://sp.bomnegocio.com/regiao-de-presidente-prudente/veiculos/carros/mitsubishi-pajero-tr4-linda-57881475" title="Mitsubishi Pajero TR4 linda - 2012">Mitsubishi Pajero TR4 linda - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 52.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Dracena
+											
+											 - 
+											DDD 18
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 58.500</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">23 Jan</p>
+								<p class="text mb5px">14:46</p>
+							</div>
+
+							<a class="whole_area_link" name="57881475" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/regiao-de-presidente-prudente/veiculos/carros/mitsubishi-pajero-tr4-linda-57881475" title="Mitsubishi Pajero TR4 linda - 2012">Mitsubishi Pajero TR4 linda - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x2-automatica-2012-2013-57869673" title="    Mitsubishi Pajero TR4 4X2 Autom">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/58/582523004560391.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57869673" name="57869673" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x2-automatica-2012-2013-57869673" title="Mitsubishi Pajero TR4 4X2 Autom">Mitsubishi Pajero TR4 4X2 Automtica 2012/2013 - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 16.500 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Jardim Cotinha
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 59.900</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">23 Jan</p>
+								<p class="text mb5px">13:17</p>
+							</div>
+
+							<a class="whole_area_link" name="57869673" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x2-automatica-2012-2013-57869673" title="Mitsubishi Pajero TR4 4X2 Autom">Mitsubishi Pajero TR4 4X2 Automtica 2012/2013 - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/regiao-de-sorocaba/veiculos/carros/mitsubishi-pajero-tr4-4x4-57821976" title="    Mitsubishi Pajero TR4 4x4 - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/58/583523008649927.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57821976" name="57821976" href="http://sp.bomnegocio.com/regiao-de-sorocaba/veiculos/carros/mitsubishi-pajero-tr4-4x4-57821976" title="Mitsubishi Pajero TR4 4x4 - 2013">Mitsubishi Pajero TR4 4x4 - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 20.500 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Sorocaba, 
+											Centro
+											 - 
+											DDD 15
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 65.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">23 Jan</p>
+								<p class="text mb5px">00:19</p>
+							</div>
+
+							<a class="whole_area_link" name="57821976" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/regiao-de-sorocaba/veiculos/carros/mitsubishi-pajero-tr4-4x4-57821976" title="Mitsubishi Pajero TR4 4x4 - 2013">Mitsubishi Pajero TR4 4x4 - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/geneton-veiculos-57793839" title="    Geneton Ve">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/57/572522005279345.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57793839" name="57793839" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/geneton-veiculos-57793839" title="Geneton Ve">Geneton Veculos - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 17.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Vila Americana
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 52.900</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">22 Jan</p>
+								<p class="text mb5px">20:11</p>
+							</div>
+
+							<a class="whole_area_link" name="57793839" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/geneton-veiculos-57793839" title="Geneton Ve">Geneton Veculos - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/regiao-de-sorocaba/veiculos/carros/pajero-dakar-diesel-57731287" title="    Pajero Dakar Diesel - 2014">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/57/575522006198036.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2014"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57731287" name="57731287" href="http://sp.bomnegocio.com/regiao-de-sorocaba/veiculos/carros/pajero-dakar-diesel-57731287" title="Pajero Dakar Diesel - 2014">Pajero Dakar Diesel - 2014</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 20.000 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Sorocaba
+											
+											 - 
+											DDD 15
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 148.900</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">22 Jan</p>
+								<p class="text mb5px">11:02</p>
+							</div>
+
+							<a class="whole_area_link" name="57731287" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/regiao-de-sorocaba/veiculos/carros/pajero-dakar-diesel-57731287" title="Pajero Dakar Diesel - 2014">Pajero Dakar Diesel - 2014</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/regiao-de-sao-jose-do-rio-preto/veiculos/carros/pajero-tr4-branca-57724088" title="    Pajero tr4 branca - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/57/572522002223370.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57724088" name="57724088" href="http://sp.bomnegocio.com/regiao-de-sao-jose-do-rio-preto/veiculos/carros/pajero-tr4-branca-57724088" title="Pajero tr4 branca - 2013">Pajero tr4 branca - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 38.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Mirassol
+											
+											 - 
+											DDD 17
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 65.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">22 Jan</p>
+								<p class="text mb5px">10:17</p>
+							</div>
+
+							<a class="whole_area_link" name="57724088" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/regiao-de-sao-jose-do-rio-preto/veiculos/carros/pajero-tr4-branca-57724088" title="Pajero tr4 branca - 2013">Pajero tr4 branca - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-un-dona-impecavel-oportunidade-57662098" title="    Mitsubishi Pajero ,un.dona, impec">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/56/561521000769797.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57662098" name="57662098" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-un-dona-impecavel-oportunidade-57662098" title="Mitsubishi Pajero ,un.dona, impec">Mitsubishi Pajero ,un.dona, impecvel,oportunidade - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 35.000 km
+	 | Cmbio: manual
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Jos Dos Campos, 
+											Jardim das Indstrias
+											 - 
+											DDD 12
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 52.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">21 Jan</p>
+								<p class="text mb5px">17:18</p>
+							</div>
+
+							<a class="whole_area_link" name="57662098" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-un-dona-impecavel-oportunidade-57662098" title="Mitsubishi Pajero ,un.dona, impec">Mitsubishi Pajero ,un.dona, impecvel,oportunidade - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-dakar-flex-7-lugares-unica-dona-56862401" title="    Mitsubishi Pajero Dakar Flex 7 Lugares ">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/49/491513002473171.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56862401" name="56862401" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-dakar-flex-7-lugares-unica-dona-56862401" title="Mitsubishi Pajero Dakar Flex 7 Lugares ">Mitsubishi Pajero Dakar Flex 7 Lugares nica Dona - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 36.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Jos Dos Campos, 
+											Parque Res Aquarius
+											 - 
+											DDD 12
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 105.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">20 Jan</p>
+								<p class="text mb5px">22:33</p>
+							</div>
+
+							<a class="whole_area_link" name="56862401" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-dakar-flex-7-lugares-unica-dona-56862401" title="Mitsubishi Pajero Dakar Flex 7 Lugares ">Mitsubishi Pajero Dakar Flex 7 Lugares nica Dona - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x2-57572820" title="    Mitsubishi Pajero tr4 4x2 - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/55/550520007598399.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57572820" name="57572820" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x2-57572820" title="Mitsubishi Pajero tr4 4x2 - 2013">Mitsubishi Pajero tr4 4x2 - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 27.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Bernardo do Campo, 
+											Centro
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 62.700</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">20 Jan</p>
+								<p class="text mb5px">21:13</p>
+							</div>
+
+							<a class="whole_area_link" name="57572820" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x2-57572820" title="Mitsubishi Pajero tr4 4x2 - 2013">Mitsubishi Pajero tr4 4x2 - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-i-full-4-portas-unico-dono-57551759" title="    Mitsubishi Pajero i Full 4 portas - ">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/55/553520003574695.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57551759" name="57551759" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-i-full-4-portas-unico-dono-57551759" title="Mitsubishi Pajero i Full 4 portas - ">Mitsubishi Pajero i Full 4 portas - nico dono - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 61.000 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Jos Dos Campos, 
+											Jardim Nova Amrica
+											 - 
+											DDD 12
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 124.990</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">20 Jan</p>
+								<p class="text mb5px">17:43</p>
+							</div>
+
+							<a class="whole_area_link" name="57551759" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-i-full-4-portas-unico-dono-57551759" title="Mitsubishi Pajero i Full 4 portas - ">Mitsubishi Pajero i Full 4 portas - nico dono - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-57508894" title="    Mitsubishi Pajero - 2014">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/55/556520005073810.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2014"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57508894" name="57508894" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-57508894" title="Mitsubishi Pajero - 2014">Mitsubishi Pajero - 2014</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 26.400 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Jos Dos Campos, 
+											Vila Ema
+											 - 
+											DDD 12
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 180.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">20 Jan</p>
+								<p class="text mb5px">12:20</p>
+							</div>
+
+							<a class="whole_area_link" name="57508894" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-57508894" title="Mitsubishi Pajero - 2014">Mitsubishi Pajero - 2014</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/baixada-santista-e-litoral-sul/veiculos/carros/pajero-tr4-flex-4x4-top-de-linha-fino-trato-57248484" title="    Pajero TR4 FLEX 4x4 TOP DE LINHA. FINO TRATO - 2011">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/52/522517005899050.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57248484" name="57248484" href="http://sp.bomnegocio.com/baixada-santista-e-litoral-sul/veiculos/carros/pajero-tr4-flex-4x4-top-de-linha-fino-trato-57248484" title="Pajero TR4 FLEX 4x4 TOP DE LINHA. FINO TRATO - 2011">Pajero TR4 FLEX 4x4 TOP DE LINHA. FINO TRATO - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 38.000 km
+	 | Cmbio: manual
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Praia Grande, 
+											Vila Guilhermina
+											 - 
+											DDD 13
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 47.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">17 Jan</p>
+								<p class="text mb5px">14:50</p>
+							</div>
+
+							<a class="whole_area_link" name="57248484" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/baixada-santista-e-litoral-sul/veiculos/carros/pajero-tr4-flex-4x4-top-de-linha-fino-trato-57248484" title="Pajero TR4 FLEX 4x4 TOP DE LINHA. FINO TRATO - 2011">Pajero TR4 FLEX 4x4 TOP DE LINHA. FINO TRATO - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubshi-57237300" title="    Mitsubshi - 2011">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/52/528517004669366.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57237300" name="57237300" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubshi-57237300" title="Mitsubshi - 2011">Mitsubshi - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 52.000 km
+	 | Cmbio: manual
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Chcara So Joo
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 47.500</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">17 Jan</p>
+								<p class="text mb5px">12:55</p>
+							</div>
+
+							<a class="whole_area_link" name="57237300" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubshi-57237300" title="Mitsubshi - 2011">Mitsubshi - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image">
+							<div class="box">
+								<span class="IEalignment"></span>
+									<span class="no_photo">sem foto</span>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57222360" name="57222360" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-57222360" title="Mitsubishi Pajero - 2011">Mitsubishi Pajero - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 102.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Taboo da Serra, 
+											Jardim Bom Tempo
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 50.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">17 Jan</p>
+								<p class="text mb5px">10:40</p>
+							</div>
+
+							<a class="whole_area_link" name="57222360" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-57222360" title="Mitsubishi Pajero - 2011">Mitsubishi Pajero - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-kilometragem-57199831" title="    Mitsubishi Pajero Kilometragem - 2012">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/52/522516001161202.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57199831" name="57199831" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-kilometragem-57199831" title="Mitsubishi Pajero Kilometragem - 2012">Mitsubishi Pajero Kilometragem - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 19.800 km
+	 | Cmbio: manual
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											
+											
+											
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 51.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">16 Jan</p>
+								<p class="text mb5px">22:19</p>
+							</div>
+
+							<a class="whole_area_link" name="57199831" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-kilometragem-57199831" title="Mitsubishi Pajero Kilometragem - 2012">Mitsubishi Pajero Kilometragem - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/tr-4-com-16-km-banco-couro-57197539" title="    Tr 4 com 16 km banco couro - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/51/517516003326067.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57197539" name="57197539" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/tr-4-com-16-km-banco-couro-57197539" title="Tr 4 com 16 km banco couro - 2013">Tr 4 com 16 km banco couro - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 16.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Vila Isa
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 48.900</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">16 Jan</p>
+								<p class="text mb5px">21:47</p>
+							</div>
+
+							<a class="whole_area_link" name="57197539" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/tr-4-com-16-km-banco-couro-57197539" title="Tr 4 com 16 km banco couro - 2013">Tr 4 com 16 km banco couro - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-2015-57177045" title="    Mitsubishi Pajero TR4 2015 - 2014">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/51/511516006973865.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2014"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57177045" name="57177045" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-2015-57177045" title="Mitsubishi Pajero TR4 2015 - 2014">Mitsubishi Pajero TR4 2015 - 2014</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 0 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											
+											
+											
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 74.500</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">16 Jan</p>
+								<p class="text mb5px">17:43</p>
+							</div>
+
+							<a class="whole_area_link" name="57177045" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-2015-57177045" title="Mitsubishi Pajero TR4 2015 - 2014">Mitsubishi Pajero TR4 2015 - 2014</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-57144291" title="    Mitsubishi Pajero - 2011">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/51/514516003303907.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57144291" name="57144291" href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-57144291" title="Mitsubishi Pajero - 2011">Mitsubishi Pajero - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 78.909 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Santa Rosa De Viterbo
+											
+											 - 
+											DDD 16
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 78.900</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">16 Jan</p>
+								<p class="text mb5px">13:19</p>
+							</div>
+
+							<a class="whole_area_link" name="57144291" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-57144291" title="Mitsubishi Pajero - 2011">Mitsubishi Pajero - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-manual-57128755" title="    Mitsubishi Pajero tr4 manual - 2012">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/51/514516001446907.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57128755" name="57128755" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-manual-57128755" title="Mitsubishi Pajero tr4 manual - 2012">Mitsubishi Pajero tr4 manual - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 99.160 km
+	 | Cmbio: manual
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Repblica
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 49.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">16 Jan</p>
+								<p class="text mb5px">11:24</p>
+							</div>
+
+							<a class="whole_area_link" name="57128755" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-manual-57128755" title="Mitsubishi Pajero tr4 manual - 2012">Mitsubishi Pajero tr4 manual - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-57059191" title="    Mitsubishi Pajero - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/50/500515004201726.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57059191" name="57059191" href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-57059191" title="Mitsubishi Pajero - 2013">Mitsubishi Pajero - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 18.000 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Ribeiro Preto, 
+											Centro
+											 - 
+											DDD 16
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 105.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">15 Jan</p>
+								<p class="text mb5px">16:49</p>
+							</div>
+
+							<a class="whole_area_link" name="57059191" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-57059191" title="Mitsubishi Pajero - 2013">Mitsubishi Pajero - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-2013-13-57032823" title="    Pajero Tr4 2013/13 - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/50/501515002759187.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_57032823" name="57032823" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-2013-13-57032823" title="Pajero Tr4 2013/13 - 2013">Pajero Tr4 2013/13 - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 20.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Liberdade
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 62.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">15 Jan</p>
+								<p class="text mb5px">13:29</p>
+							</div>
+
+							<a class="whole_area_link" name="57032823" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-2013-13-57032823" title="Pajero Tr4 2013/13 - 2013">Pajero Tr4 2013/13 - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-2013-impecavel-56984146" title="    Pajero TR4 2013 impec">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/50/506514009378705.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56984146" name="56984146" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-2013-impecavel-56984146" title="Pajero TR4 2013 impec">Pajero TR4 2013 impecvel - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 18.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Parque da Mooca
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 56.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">14 Jan</p>
+								<p class="text mb5px">23:21</p>
+							</div>
+
+							<a class="whole_area_link" name="56984146" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-2013-impecavel-56984146" title="Pajero TR4 2013 impec">Pajero TR4 2013 impecvel - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-sport-hpe-diesel-4x4-autom-2011-51320419" title="    Mitsubishi Pajero Sport HPE Diesel 4x4 Autom 2011 - 2011">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/87/876413102947422.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_51320419" name="51320419" href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-sport-hpe-diesel-4x4-autom-2011-51320419" title="Mitsubishi Pajero Sport HPE Diesel 4x4 Autom 2011 - 2011">Mitsubishi Pajero Sport HPE Diesel 4x4 Autom 2011 - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 37.000 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Araraquara, 
+											Vila Esperana
+											 - 
+											DDD 16
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 79.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">14 Jan</p>
+								<p class="text mb5px">15:38</p>
+							</div>
+
+							<a class="whole_area_link" name="51320419" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-sport-hpe-diesel-4x4-autom-2011-51320419" title="Mitsubishi Pajero Sport HPE Diesel 4x4 Autom 2011 - 2011">Mitsubishi Pajero Sport HPE Diesel 4x4 Autom 2011 - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-56827639" title="    Mitsubishi Pajero - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/48/480513000884377.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56827639" name="56827639" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-56827639" title="Mitsubishi Pajero - 2013">Mitsubishi Pajero - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 50.000 km
+	 | Cmbio: manual
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Ubatuba
+											
+											 - 
+											DDD 12
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 63.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">13 Jan</p>
+								<p class="text mb5px">16:50</p>
+							</div>
+
+							<a class="whole_area_link" name="56827639" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-56827639" title="Mitsubishi Pajero - 2013">Mitsubishi Pajero - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/regiao-de-bauru-e-marilia/veiculos/carros/mitsubishi-pajero-dakar-56707270" title="    Mitsubishi Pajero Dakar - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/47/471512002484079.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56707270" name="56707270" href="http://sp.bomnegocio.com/regiao-de-bauru-e-marilia/veiculos/carros/mitsubishi-pajero-dakar-56707270" title="Mitsubishi Pajero Dakar - 2013">Mitsubishi Pajero Dakar - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 21.000 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											
+											
+											
+											DDD 14
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 140.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">12 Jan</p>
+								<p class="text mb5px">16:37</p>
+							</div>
+
+							<a class="whole_area_link" name="56707270" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/regiao-de-bauru-e-marilia/veiculos/carros/mitsubishi-pajero-dakar-56707270" title="Mitsubishi Pajero Dakar - 2013">Mitsubishi Pajero Dakar - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-aut-4x2-2013-56670299" title="    Mitsubishi Pajero TR4 aut 4x2 2013 - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/47/473512000700145.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56670299" name="56670299" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-aut-4x2-2013-56670299" title="Mitsubishi Pajero TR4 aut 4x2 2013 - 2013">Mitsubishi Pajero TR4 aut 4x2 2013 - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 33.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Vila Picinin
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 56.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">12 Jan</p>
+								<p class="text mb5px">11:55</p>
+							</div>
+
+							<a class="whole_area_link" name="56670299" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-aut-4x2-2013-56670299" title="Mitsubishi Pajero TR4 aut 4x2 2013 - 2013">Mitsubishi Pajero TR4 aut 4x2 2013 - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x2-cinza-29-213km-56658777" title="    Mitsubishi Pajero Tr4 4x2 Cinza 29.213km - 2012">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/47/471512002523431.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56658777" name="56658777" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x2-cinza-29-213km-56658777" title="Mitsubishi Pajero Tr4 4x2 Cinza 29.213km - 2012">Mitsubishi Pajero Tr4 4x2 Cinza 29.213km - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 29.213 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Carapicuba, 
+											Chcara Quiriri
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 52.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">12 Jan</p>
+								<p class="text mb5px">10:39</p>
+							</div>
+
+							<a class="whole_area_link" name="56658777" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x2-cinza-29-213km-56658777" title="Mitsubishi Pajero Tr4 4x2 Cinza 29.213km - 2012">Mitsubishi Pajero Tr4 4x2 Cinza 29.213km - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image">
+							<div class="box">
+								<span class="IEalignment"></span>
+									<span class="no_photo">sem foto</span>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56655462" name="56655462" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-56655462" title="Mitsubishi Pajero - 2011">Mitsubishi Pajero - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 70.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Taubat, 
+											Vila So Geraldo
+											 - 
+											DDD 12
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 61.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">12 Jan</p>
+								<p class="text mb5px">10:16</p>
+							</div>
+
+							<a class="whole_area_link" name="56655462" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-56655462" title="Mitsubishi Pajero - 2011">Mitsubishi Pajero - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-dakar-3-2-4x4-diesel-2012-45017087" title="    Mitsubishi Pajero Dakar 3.2 4X4 Diesel - 2012 - 2012">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/22/2287225424.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_45017087" name="45017087" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-dakar-3-2-4x4-diesel-2012-45017087" title="Mitsubishi Pajero Dakar 3.2 4X4 Diesel - 2012 - 2012">Mitsubishi Pajero Dakar 3.2 4X4 Diesel - 2012 - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 21.379 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											
+											
+											
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 118.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">11 Jan</p>
+								<p class="text mb5px">15:38</p>
+							</div>
+
+							<a class="whole_area_link" name="45017087" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-dakar-3-2-4x4-diesel-2012-45017087" title="Mitsubishi Pajero Dakar 3.2 4X4 Diesel - 2012 - 2012">Mitsubishi Pajero Dakar 3.2 4X4 Diesel - 2012 - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-full-3-8-2010-11-45014281" title="    Mitsubishi Pajero Full 3.8 2010/11 - 2011">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/22/2294737216.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_45014281" name="45014281" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-full-3-8-2010-11-45014281" title="Mitsubishi Pajero Full 3.8 2010/11 - 2011">Mitsubishi Pajero Full 3.8 2010/11 - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 115.000 km
+	 | Cmbio: automtico
+	 | Gasolina
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Indianpolis
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 86.400</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">11 Jan</p>
+								<p class="text mb5px">12:09</p>
+							</div>
+
+							<a class="whole_area_link" name="45014281" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-full-3-8-2010-11-45014281" title="Mitsubishi Pajero Full 3.8 2010/11 - 2011">Mitsubishi Pajero Full 3.8 2010/11 - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-tr4-gls-2-0-4x4-preto-44460478" title="    Mitsubishi Pajero TR4, GLS 2.0, 4x4, preto - 2012">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/16/1655367587.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_44460478" name="44460478" href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-tr4-gls-2-0-4x4-preto-44460478" title="Mitsubishi Pajero TR4, GLS 2.0, 4x4, preto - 2012">Mitsubishi Pajero TR4, GLS 2.0, 4x4, preto - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 1.000 km
+	 | Cmbio: manual
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Ribeiro Preto, 
+											Jardim Botnico
+											 - 
+											DDD 16
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 42.500</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">10 Jan</p>
+								<p class="text mb5px">12:55</p>
+							</div>
+
+							<a class="whole_area_link" name="44460478" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/mitsubishi-pajero-tr4-gls-2-0-4x4-preto-44460478" title="Mitsubishi Pajero TR4, GLS 2.0, 4x4, preto - 2012">Mitsubishi Pajero TR4, GLS 2.0, 4x4, preto - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-seminova-56497730" title="    Pajero tr4 seminova - 2012">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/45/450510001596093.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56497730" name="56497730" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-seminova-56497730" title="Pajero tr4 seminova - 2012">Pajero tr4 seminova - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 16.000 km
+	 | Cmbio: manual
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Cerqueira Csar
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 58.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">10 Jan</p>
+								<p class="text mb5px">00:20</p>
+							</div>
+
+							<a class="whole_area_link" name="56497730" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/pajero-tr4-seminova-56497730" title="Pajero tr4 seminova - 2012">Pajero tr4 seminova - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/tr4-2014-4x4-automatica-56487196" title="    TR4 2014 4x4 autom">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/45/454509006240952.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2014"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56487196" name="56487196" href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/tr4-2014-4x4-automatica-56487196" title="TR4 2014 4x4 autom">TR4 2014 4x4 automtica - 2014</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 19.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Franca, 
+											Res Paraso
+											 - 
+											DDD 16
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 72.900</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">9 Jan</p>
+								<p class="text mb5px">21:19</p>
+							</div>
+
+							<a class="whole_area_link" name="56487196" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/regiao-de-ribeirao-preto/veiculos/carros/tr4-2014-4x4-automatica-56487196" title="TR4 2014 4x4 autom">TR4 2014 4x4 automtica - 2014</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-56485072" title="    Mitsubishi Pajero - 2012">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/44/444509003517761.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56485072" name="56485072" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-56485072" title="Mitsubishi Pajero - 2012">Mitsubishi Pajero - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 51.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Taubat, 
+											Vila Marly
+											 - 
+											DDD 12
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 53.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">9 Jan</p>
+								<p class="text mb5px">20:52</p>
+							</div>
+
+							<a class="whole_area_link" name="56485072" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/vale-do-paraiba-e-litoral-norte/veiculos/carros/mitsubishi-pajero-56485072" title="Mitsubishi Pajero - 2012">Mitsubishi Pajero - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-56388599" title="    Mitsubishi Pajero - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/44/443508002253044.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56388599" name="56388599" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-56388599" title="Mitsubishi Pajero - 2013">Mitsubishi Pajero - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 38.000 km
+	 | Cmbio: automtico
+	 | Diesel
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Vila Mascote
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 115.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">8 Jan</p>
+								<p class="text mb5px">22:27</p>
+							</div>
+
+							<a class="whole_area_link" name="56388599" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-56388599" title="Mitsubishi Pajero - 2013">Mitsubishi Pajero - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x4-28500-km-56175045" title="    Mitsubishi Pajero Tr4 - 4x4 - 28500 Km - 2011">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/42/426507005100450.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2011"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56175045" name="56175045" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x4-28500-km-56175045" title="Mitsubishi Pajero Tr4 - 4x4 - 28500 Km - 2011">Mitsubishi Pajero Tr4 - 4x4 - 28500 Km - 2011</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 29.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Campo Belo
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 58.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">7 Jan</p>
+								<p class="text mb5px">01:36</p>
+							</div>
+
+							<a class="whole_area_link" name="56175045" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-4x4-28500-km-56175045" title="Mitsubishi Pajero Tr4 - 4x4 - 28500 Km - 2011">Mitsubishi Pajero Tr4 - 4x4 - 28500 Km - 2011</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-impecavel-56055416" title="    Mitsubishi Pajero TR4 - impec">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/41/411505005702540.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_56055416" name="56055416" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-impecavel-56055416" title="Mitsubishi Pajero TR4 - impec">Mitsubishi Pajero TR4 - impecvel - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 35.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Cidade Mones
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 56.500</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">5 Jan</p>
+								<p class="text mb5px">23:41</p>
+							</div>
+
+							<a class="whole_area_link" name="56055416" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-tr4-impecavel-56055416" title="Mitsubishi Pajero TR4 - impec">Mitsubishi Pajero TR4 - impecvel - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-4x4-autom-flex-branca-49992239" title="    Mitsubishi Pajero 4x4, autom, flex, branca - 2013">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/85/859411107473575.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2013"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_49992239" name="49992239" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-4x4-autom-flex-branca-49992239" title="Mitsubishi Pajero 4x4, autom, flex, branca - 2013">Mitsubishi Pajero 4x4, autom, flex, branca - 2013</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 51.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											So Paulo, 
+											Indianpolis
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 63.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">5 Jan</p>
+								<p class="text mb5px">17:31</p>
+							</div>
+
+							<a class="whole_area_link" name="49992239" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-4x4-autom-flex-branca-49992239" title="Mitsubishi Pajero 4x4, autom, flex, branca - 2013">Mitsubishi Pajero 4x4, autom, flex, branca - 2013</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-4x2-2012-automatica-flex-55986372" title="    Mitsubishi Pajero TR4 4X2 2012 Autom">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/40/400505002966261.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_55986372" name="55986372" href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-4x2-2012-automatica-flex-55986372" title="Mitsubishi Pajero TR4 4X2 2012 Autom">Mitsubishi Pajero TR4 4X2 2012 Automtica flex - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 44.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Indaiatuba
+											
+											 - 
+											DDD 19
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 57.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">5 Jan</p>
+								<p class="text mb5px">13:26</p>
+							</div>
+
+							<a class="whole_area_link" name="55986372" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/grande-campinas/veiculos/carros/mitsubishi-pajero-tr4-4x2-2012-automatica-flex-55986372" title="Mitsubishi Pajero TR4 4X2 2012 Autom">Mitsubishi Pajero TR4 4X2 2012 Automtica flex - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		<li class="list_adsBN_item">
+				<div class="adBN">
+					
+					<div class="col_1">
+						<div class="adBN_image morephotos">
+							<div class="box">
+								<span class="IEalignment"></span>
+									
+										<a href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-50384815" title="    Mitsubishi Pajero - 2012">
+											<img class="image lazy" src="//static.bn-static.com/img/transparent.png" data-original="http://img.bomnegocio.com/thumbsli/78/787404109670761.jpg" alt="Mitsubishi Pajero HPE 2.5 4 x 4 Diesel Aut - Preta - 2012"></a>
+									
+							</div>
+						</div>
+					</div>
+
+
+						<div class="col_2">
+								<h3 class="title mb5px">
+									<a class="link" id="title_ad_50384815" name="50384815" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-50384815" title="Mitsubishi Pajero - 2012">Mitsubishi Pajero - 2012</a>
+								</h3>
+								<p class="text mb5px detail_specific">
+									
+	
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	 36.000 km
+	 | Cmbio: automtico
+	 | Flex
+
+	
+
+
+								</p>
+								<div class="info">
+									<p class="text mb5px detail_region">
+										
+											Osasco, 
+											Centro
+											 - 
+											DDD 11
+										
+									</p>
+									<p class="text detail_category">
+										
+										
+									</p>
+								</div>
+							</div>
+
+							<div class="col_3">
+
+								
+								
+								
+										
+										
+										
+										
+										
+										
+										
+									<p class="price"> R$ 55.000</p>
+								
+								
+								
+								
+							</div>
+							<div class="col_4">
+								<p class="text mb5px">5 Jan</p>
+								<p class="text mb5px">08:38</p>
+							</div>
+
+							<a class="whole_area_link" name="50384815" onclick="return xt_click(this,'C','110','list_ads','N');" href="http://sp.bomnegocio.com/sao-paulo-e-regiao/veiculos/carros/mitsubishi-pajero-50384815" title="Mitsubishi Pajero - 2012">Mitsubishi Pajero - 2012</a>
+							
+
+						
+					
+				</div>
+			</li>
+		
+	
