@@ -16,9 +16,9 @@ const BA_BASE_URL = 'http://ba.bomnegocio.com';
 
 const DEFAULT_SEARCH = '/veiculos/carros/';
 
-const MYSQL_DSN = 'mysql:host=localhost;dbname=scraper;charset=utf8';
-const USERNAME  = 'revmaker';
-const PASS      = 'revmaker';
+const MYSQL_DSN = $_ENV['DSN'];
+const USERNAME  = $_ENV['USERNAME'];
+const PASS      = $_ENV['PASS'];
 
 const SLEEP_TIME = 4;
 
